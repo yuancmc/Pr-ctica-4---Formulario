@@ -76,6 +76,8 @@ namespace Proyecto_2___Formulario
             }
             MessageBox.Show("Datos guardados con éxito:\n\n" + datos);
 
+            //Orueba de canbios
+
         }
 
         private bool EsTextoValido(string valor)
