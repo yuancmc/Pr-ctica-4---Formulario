@@ -76,7 +76,7 @@ namespace Proyecto_2___Formulario
             }
             MessageBox.Show("Datos guardados con éxito:\n\n" + datos);
 
-            //Orueba de canbios
+            //Orueba de canbios 5
 
         }
 
